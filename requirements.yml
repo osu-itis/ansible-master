@@ -19,7 +19,3 @@
 
 - src: git+https://github.com/osu-itis/ansible-epel-repository
   name: epel-repository
-
-- src: git+https://github.com/osu-itis/ansible-splunk
-  name: splunk
-
