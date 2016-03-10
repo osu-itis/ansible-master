@@ -19,3 +19,6 @@
 
 - src: git+https://github.com/osu-itis/ansible-epel-repository
   name: epel-repository
+
+- src: git+https://github.com/osu-itis/ansible-common-proxy
+  name: common-proxy
